@@ -5,3 +5,9 @@ It can be a Advancement in Personal Assistants and Robots, Can be used in the ar
 # Limitations 
 Human emotions are vast and vary from person to person it can’t be restricted into a certain number
 Since we are dealing with ML, NLP models can’t guarantee certainty instead we deal with probabilistic method.
+#Roles and Responsibilities
+Project Planner - Ayush Pandey
+Code formulator - Archa Dave
+Devops Engineer - Harichandana 
+Front end - Divija 
+Back end - Anayna Singh 
