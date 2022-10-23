@@ -18,9 +18,9 @@ Devops Engineer - Harichandana
 Front end - Divija 
 Back end - Anayna Singh 
 # Tech Stack
-DevOps : Docker, Jenkins
-NLP and ML Libraries : Librosa, Tensorflow, Scikit-Learn
-Web Development : MERN Stack
+DevOps : Docker, Jenkins ;
+NLP and ML Libraries : Librosa, Tensorflow, Scikit-Learn ;
+Web Development : MERN Stack ;
 Project Management : Jira, Github
 
 
