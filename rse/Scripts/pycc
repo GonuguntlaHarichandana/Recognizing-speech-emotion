@@ -1,0 +1,3 @@
+#!C:\Users\krupa\OneDrive\Desktop\Sem-7\Capstone\Project\Test-2\rse\Scripts\python.exe
+from numba.pycc import main
+main()
