@@ -21,7 +21,7 @@ Back end - Anayna Singh
 DevOps : Docker, Jenkins ;
 NLP and ML Libraries : Librosa, Tensorflow, Scikit-Learn ;
 Web Development : MERN Stack ;
-Project Management : Jira, Github
+Project Management : Jira, Github.
 
 
 
